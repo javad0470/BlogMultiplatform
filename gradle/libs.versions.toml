@@ -2,7 +2,7 @@
 jetbrains-compose = "1.5.1"
 kobweb = "0.14.1"
 kotlin = "1.9.10"
-kmongo = "4.10.0"
+kmongo = "4.8.0"
 serialization = "1.4.1"
 
 
